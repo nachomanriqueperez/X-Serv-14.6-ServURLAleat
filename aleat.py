@@ -2,6 +2,7 @@
 import webapp
 import random
 
+
 class aleat(webapp.webApp):
 
     def process(self, parsedRequest):
